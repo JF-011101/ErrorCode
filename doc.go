@@ -1,1 +1,1 @@
-package code // import "github.com/marmotedu/sample-code"
+package code // import "github.com/jf-011101/ErrnoCode"

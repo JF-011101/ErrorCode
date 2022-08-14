@@ -1,11 +1,11 @@
 package code
 
 import (
-	"github.com/marmotedu/errors"
+	"github.com/jf-011101/errors"
 	"github.com/novalagung/gubrak"
 )
 
-// ErrCode implements `github.com/marmotedu/errors`.Coder interface.
+// ErrCode implements `github.com/jf-011101/errors`.Coder interface.
 type ErrCode struct {
 	// C refers to the code of the ErrCode.
 	C int
